@@ -1,7 +1,3 @@
-import sprites.*;
-import sprites.maths.*;
-import sprites.utils.*;
-
 /** Options **/
 boolean diag = false; //Active ou non le déplacement en diagonale | NOTE : contraintes non-openworld non mis en place pour le déplacement en diagonale
 boolean OpenWorld = false; //Contraintes de déplacements hors de la fenêtre désactivés ou non
